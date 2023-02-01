@@ -3,7 +3,7 @@
 
 |SNo| Topic | SubTopic | Link |
 |-|-|-|-|
-|-| Introduction & Template Creation |-|[Data Sciene Project Template Part 1](https://youtu.be/C_cqTnpI1gQ)|
+|001| Introduction about Project |-|[Data Sciene Project Intro Part 1](https://youtu.be/uk2zMF6PA2I)|
 |001|Setup File|-|[Setup file Implementation]([https://youtu.be/bVM-QujJ0AI](https://youtu.be/eHuEG_571Ng))|
 |-| Init_Setp File |-|[Inti Setup File Implementation](https://youtu.be/eHuEG_571Ng)
 |-| setup cfg file |-|-|
